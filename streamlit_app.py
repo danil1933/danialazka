@@ -4,9 +4,9 @@ st.title("🎈 Danialazka Web")
 st.write(
     "dunia boleh saja melawanku ku punya doa ibu #perunggu"
 )
-st.image("IMG_3178.webp",width=200)
+st.image("IMG_3530.jpeg",width=200)
 
-st.title("aplikasi sederhana")
+st.title("33x , tapi , ini abadi")
 st.header("aplikasi mengecek nilai ganjil/genap")
 angka = st.number_input("tulis sebuah angka:", value=0, step=1)
 
